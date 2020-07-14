@@ -1,4 +1,4 @@
-<img src = https://github.com/DecimatorMind/DecimatorMind/blob/master/full-frame-shot-of-snowflakes-326240.jpg>
+<img src = https://github.com/PranjalBhardwaj11/PranjalBhardwaj11/blob/master/black-textile-952670-2.jpg>
 
 ### Hi there 👋
 
