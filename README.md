@@ -1,8 +1,8 @@
+<img src = https://github.com/DecimatorMind/DecimatorMind/blob/master/full-frame-shot-of-snowflakes-326240.jpg>
+
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
-<!--
-**PranjalBhardwaj11/PranjalBhardwaj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DecimatorMind/DecimatorMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
