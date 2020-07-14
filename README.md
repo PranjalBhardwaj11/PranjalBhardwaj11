@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
 <!--
 **PranjalBhardwaj11/PranjalBhardwaj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
